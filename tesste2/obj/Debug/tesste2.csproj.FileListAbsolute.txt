@@ -1,0 +1,12 @@
+C:\Users\2022102020058\source\repos\tesste2\tesste2\bin\Debug\tesste2.exe.config
+C:\Users\2022102020058\source\repos\tesste2\tesste2\bin\Debug\tesste2.exe
+C:\Users\2022102020058\source\repos\tesste2\tesste2\bin\Debug\tesste2.pdb
+C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.csproj.AssemblyReference.cache
+C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.Form1.resources
+C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.Properties.Resources.resources
+C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.csproj.GenerateResource.cache
+C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.csproj.CoreCompileInputs.cache
+C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.exe
+C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.pdb
+C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.telas.Form2.resources
