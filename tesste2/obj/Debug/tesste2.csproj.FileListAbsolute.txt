@@ -10,3 +10,4 @@ C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.csproj.Cor
 C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.exe
 C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.pdb
 C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.telas.Form2.resources
+C:\Users\2022102020058\source\repos\tesste2\tesste2\obj\Debug\tesste2.Form3.resources
